@@ -16,7 +16,7 @@ The dashboard provides a comprehensive view of key business metrics such as reve
 # Power BI (.pbix)
 Data cleaning & transformation using Power Query
 Data modeling with relationships and DAX measures
-<a href="https://www.w3schools.com"> dataset </a>
+<a href="https://github.com/jpkeerthik30-sudo/Flipkart-Sales-Analysis-Dashboard/blob/main/Sales%20Dataset.csv"> dataset </a>
 
 ## Objective
 

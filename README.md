@@ -16,17 +16,7 @@ The dashboard provides a comprehensive view of key business metrics such as reve
 # Power BI (.pbix)
 Data cleaning & transformation using Power Query
 Data modeling with relationships and DAX measures
-📂 Dataset
-
-## The dataset includes transactional e-commerce data such as:
-
-Orders
-Products
-Customers
-Categories
-Sales and revenue metrics
-
-(Update this section if you know the exact dataset source.)
+<a href=" https://github.com/jpkeerthik30-sudo/Flipkart-Sales-Analysis-Dashboard/blob/main/Sales%20Dataset.csv">📂 Dataset </a>
 
 ## Objective
 

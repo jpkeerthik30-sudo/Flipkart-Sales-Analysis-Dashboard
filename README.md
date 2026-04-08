@@ -50,6 +50,5 @@ Which categories receive the best/worst reviews?
 ## 📈 Business Growth
 Is the business growing over time?
 What trends can be identified for future forecasting?
-## 📝 Optional: Short GitHub Description (one-liner)
 
-Power BI dashboard analyzing Flipkart sales data to uncover trends in revenue, customer behavior, and product performance.
+
